@@ -1,0 +1,8 @@
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 020
+ID Position Product Quantity
+20 20 Product 20 1
+Checked 

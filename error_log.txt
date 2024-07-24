@@ -1,0 +1,3 @@
+Error processing PDF: 'int' object has no attribute 'split'
+Error processing PDF: [Errno 13] Permission denied: 'C:\\Users\\hamoz\\OneDrive\\Desktop\\Report.pdf'
+Error processing PDF: 'int' object has no attribute 'split'

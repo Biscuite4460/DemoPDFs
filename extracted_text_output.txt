@@ -1,0 +1,560 @@
+--- Page 1 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 001
+ID Position Product Quantity
+1 1 Product 1 2
+Checked 
+--- Page 1 End ---
+
+--- Page 2 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 002
+ID Position Product Quantity
+2 2 Product 2 3
+Checked 
+--- Page 2 End ---
+
+--- Page 3 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 003
+ID Position Product Quantity
+3 3 Product 3 4
+Checked 
+--- Page 3 End ---
+
+--- Page 4 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 004
+ID Position Product Quantity
+4 4 Product 4 5
+Checked 
+--- Page 4 End ---
+
+--- Page 5 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 005
+ID Position Product Quantity
+5 5 Product 5 6
+Checked 
+--- Page 5 End ---
+
+--- Page 6 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 006
+ID Position Product Quantity
+6 6 Product 6 7
+Checked 
+--- Page 6 End ---
+
+--- Page 7 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 007
+ID Position Product Quantity
+7 7 Product 7 8
+Checked 
+--- Page 7 End ---
+
+--- Page 8 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 008
+ID Position Product Quantity
+8 8 Product 8 9
+Checked 
+--- Page 8 End ---
+
+--- Page 9 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 009
+ID Position Product Quantity
+9 9 Product 9 10
+Checked 
+--- Page 9 End ---
+
+--- Page 10 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 010
+ID Position Product Quantity
+10 10 Product 10 1
+Checked 
+--- Page 10 End ---
+
+--- Page 11 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 011
+ID Position Product Quantity
+11 11 Product 11 2
+Checked 
+--- Page 11 End ---
+
+--- Page 12 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 012
+ID Position Product Quantity
+12 12 Product 12 3
+Checked 
+--- Page 12 End ---
+
+--- Page 13 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 013
+ID Position Product Quantity
+13 13 Product 13 4
+Checked 
+--- Page 13 End ---
+
+--- Page 14 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 014
+ID Position Product Quantity
+14 14 Product 14 5
+Checked 
+--- Page 14 End ---
+
+--- Page 15 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 015
+ID Position Product Quantity
+15 15 Product 15 6
+Checked 
+--- Page 15 End ---
+
+--- Page 16 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 016
+ID Position Product Quantity
+16 16 Product 16 7
+Checked 
+--- Page 16 End ---
+
+--- Page 17 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 017
+ID Position Product Quantity
+17 17 Product 17 8
+Checked 
+--- Page 17 End ---
+
+--- Page 18 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 018
+ID Position Product Quantity
+18 18 Product 18 9
+Checked 
+--- Page 18 End ---
+
+--- Page 19 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 019
+ID Position Product Quantity
+19 19 Product 19 10
+Checked 
+--- Page 19 End ---
+
+--- Page 20 Start ---
+Formular tipizat.
+Anexa nr.1 la Ordinul Ministerului Finanțelor al R.M.
+Nr. ordin 65 din 18 aprilie 2019
+Aviz de însoțire a mărfii
+Seria:CERT nr.: 020
+ID Position Product Quantity
+20 20 Product 20 1
+Checked 
+--- Page 20 End ---
+
+--- Page 21 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT001
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+1 Product 1 10.5 21
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 21 End ---
+
+--- Page 22 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT002
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+2 Product 2 11 33
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 22 End ---
+
+--- Page 23 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT003
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+3 Product 3 11.5 46
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 23 End ---
+
+--- Page 24 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT004
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+4 Product 4 12 60
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 24 End ---
+
+--- Page 25 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT005
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+5 Product 5 12.5 75
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 25 End ---
+
+--- Page 26 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT006
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+6 Product 6 13 91
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 26 End ---
+
+--- Page 27 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT007
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+7 Product 7 13.5 108
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 27 End ---
+
+--- Page 28 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT008
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+8 Product 8 14 126
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 28 End ---
+
+--- Page 29 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT009
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+9 Product 9 14.5 145
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 29 End ---
+
+--- Page 30 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT010
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+10 Product 10 15 15
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 30 End ---
+
+--- Page 31 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT011
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+11 Product 11 15.5 31
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 31 End ---
+
+--- Page 32 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT012
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+12 Product 12 16 48
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 32 End ---
+
+--- Page 33 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT013
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+13 Product 13 16.5 66
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 33 End ---
+
+--- Page 34 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT014
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+14 Product 14 17 85
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 34 End ---
+
+--- Page 35 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT015
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+15 Product 15 17.5 105
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 35 End ---
+
+--- Page 36 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT016
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+16 Product 16 18 126
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 36 End ---
+
+--- Page 37 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT017
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+17 Product 17 18.5 148
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 37 End ---
+
+--- Page 38 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT018
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+18 Product 18 19 171
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 38 End ---
+
+--- Page 39 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT019
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+19 Product 19 19.5 195
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 39 End ---
+
+--- Page 40 Start ---
+Agentul Economic /
+Producător
+Expedietor
+Destinatar
+CERT020
+Denumirea
+Nr. Preț (mdl) Cantitate
+Produsului
+20 Product 20 20 20
+Prezentul certificat de calitate este eliberat în baza raportului/rapoartelor de încercări de laborator, prin care se atestă ca produsele livrate corespuns
+cerințelor de calitate și sunt sigure pentru consumul uman.
+Temperatura de transportare de la +2 până la +4
+Reprezentantul legal al agentului economic
+Șef Laborator
+--- Page 40 End ---
+
